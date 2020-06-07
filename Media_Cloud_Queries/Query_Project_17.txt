@@ -1,0 +1,40 @@
+(demonstration AND black) OR
+(demonstration AND "Black Lives Matter") OR
+(demonstration AND BLM) OR
+(demonstration AND police) OR
+(demonstration AND military) OR
+(demonstration AND brutality) OR
+(demonstration AND "police brutality") OR
+(demonstration AND violence) OR
+(demonstration AND "police violence") OR
+(demonstration AND "tear gas") OR
+(protest AND black) OR
+(protest AND "Black Lives Matter") OR
+(protest AND BLM) OR
+(protest AND police) OR
+(protest AND military) OR
+(protest AND brutality) OR
+(protest AND "police brutality") OR
+(protest AND violence) OR
+(protest AND "police violence") OR
+(protest AND "tear gas") OR
+(unrest AND black) OR
+(unrest AND "Black Lives Matter") OR
+(unrest AND BLM) OR
+(unrest AND police) OR
+(unrest AND military) OR
+(unrest AND brutality) OR
+(unrest AND "police brutality") OR
+(unrest AND violence) OR
+(unrest AND "police violence") OR
+(unrest AND "tear gas") OR
+(riot AND black) OR
+(riot AND "Black Lives Matter") OR
+(riot AND BLM) OR
+(riot AND police) OR
+(riot AND military) OR
+(riot AND brutality) OR
+(riot AND "police brutality") OR
+(riot AND violence) OR
+(riot AND "police violence") OR
+(riot AND "tear gas")
